@@ -1,6 +1,6 @@
   ## Olá, Eu sou o Lucas Santos ✋
   
-  #### Desenvolvdor Front-end
+  #### Desenvolvedor Front-end
  
 
   [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucassantosdl.github.io/Bio-informations/)
