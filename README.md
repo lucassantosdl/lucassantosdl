@@ -9,9 +9,9 @@
 
   [![LinkediIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassantosdl/)
 
-  ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassantosdl&show_icons=true&theme=tokyonight)
-
-
+  ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassantosdl&show_icons=true&theme=cobalt)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosdl&layout=compact)](https://github.com/lucassantosdl/github-readme-stats)
 
   ### Tecnologias que uso no meu dia
   <br>
