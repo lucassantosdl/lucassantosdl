@@ -1,25 +1,21 @@
-  ## Olá, Eu sou o Lucas Santos ✋
-  
-  #### Desenvolvedor Front-end
- 
+# 💫 About Me:
+🔭 I’m Front-End Developer<br>👯 I’m looking to work  <br>🌱 I’m currently focused on studying<br>
 
-  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucassantosdl.github.io/Bio-informations/)
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassantosdl/)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucassantosdl#9678) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucassantosdl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucassantosdl/) 
 
-  [![LinkediIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassantosdl/)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucassantosdl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucassantosdl&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosdl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassantosdl&show_icons=true&theme=cobalt)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosdl&layout=compact)](https://github.com/lucassantosdl/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lucassantosdl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-  ### Tecnologias que uso no meu dia
-  <br>
+---
+[![](https://visitcount.itsvg.in/api?id=lucassantosdl&icon=5&color=6)](https://visitcount.itsvg.in)
 
-![htmml](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
