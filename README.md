@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Front-End Developer<br>👯 I’m looking to work  <br>🌱 I’m currently focused on studying<br>
+🔭 I’m Front-End Developer<br> ✋ I’m looking to work  <br> 🚀 I’m currently focused on studying<br>
 
 
 ## 🌐 Socials:
