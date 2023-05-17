@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m Front-End Developer<br> ✋ I’m looking to work  <br> 🚀 I’m currently focused on studying<br>
+ ✋ Hello World!  <br> 
+ 🚀 My name is Lucas Santos, and in 2022, I decided to make a career transition to the Front-End Development area. Since then, I have been studying and improving my knowledge in the most used technologies in this market.
+ <br>
 
 
 ## 🌐 Socials:
