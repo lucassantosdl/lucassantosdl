@@ -67,7 +67,7 @@ stack: "Front-End"
 
 ---
   
-<h3 align="center">🌐 GitHub Analytics</h3>
+<h3 align="center">🌐 gitHub Analytics</h3>
   
 <div align="center">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucassantosdl&show_icons=true&theme=github_dark" alt="Lucas Santos's Stats"/>
