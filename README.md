@@ -31,7 +31,7 @@ stack: "Front-End"
 
 ---
   
-<h3 align="center">💻 Tech Stack & Skills</h3>
+<h3 align="center">💻 Tech Stack and Skills</h3>
 
 <div align="center">
   
