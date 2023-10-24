@@ -16,17 +16,17 @@ stack: "Front-End"
 
 ### ✋🏼 About me
   
-- 🖥️ Front-end Developer
+- 🖥️ Back-End Developer
 - 📚 Graduating in analysis and systems development
-- 👨‍💻 Programming and Information Technology Enthusiast
+- 👨‍💻 I am passionate about Artificial Intelligence (AI) and Machine Learning (ML)
   
 ---
   
 ### 💪🏼 Interest Areas
 
-- Front-end Programming
-- Web Development
-- Information Security
+- Back-end Programming
+- Data Science
+- Data Analysis
 - Social Engineering
 
 ---
