@@ -35,11 +35,9 @@ stack: "Back-End"
 
 <div align="center">
   
-![HTML](https://img.shields.io/badge/-HTML-%23263759?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-%23263759?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23263759?style=for-the-badge&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-%23263759?style=for-the-badge&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-%23263759?style=for-the-badge&logo=react)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-%23263759?style=for-the-badge&logo=markdown)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
