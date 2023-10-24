@@ -8,7 +8,7 @@ let lucasSantos {
 name: "Lucas Santos",
 age: 25,
 country: "Brazil",
-stack: "Front-End"
+stack: "Back-End"
 };
 ```
   
