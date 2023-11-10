@@ -27,7 +27,7 @@ stack: "Back-End"
 - Back-end Programming
 - Data Science
 - Data Analysis
-- Social Engineering
+- Data Engineering
 
 ---
   
